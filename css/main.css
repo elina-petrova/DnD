@@ -1,0 +1,17 @@
+div{
+  display: inline-block;
+  margin: 10px;
+}
+button{
+  display: block;
+  color: white;
+  font-size: 15px;
+  padding: 5px 10px;
+  margin: 10px;
+  background-color: #333;
+}
+.controllers{
+  display: block;
+  margin-top: 8px;
+  text-align: center;
+}
